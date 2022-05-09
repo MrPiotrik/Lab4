@@ -1,0 +1,64 @@
+{
+    "post": [
+        {
+            "id": "1",
+            "nameInput": "Магнолія",
+            "addressInput": "смт. Тура",
+            "telephoneInput": "17499",
+            "numberOfinvestmentInput": "7000",
+            "priceInput": "5",
+            "nameProductInput": "Генератор",
+            "brandInput": "ГНТ-865-6а",
+            "dataInput": "21.04.04",
+            "numberProductInput": "64"
+        },
+        {
+            "id": "2",
+            "nameInput": "Горизонт",
+            "addressInput": "вул. Суха, 5",
+            "telephoneInput": "12345",
+            "numberOfinvestmentInput": "0",
+            "priceInput": "125",
+            "nameProductInput": "Контактор",
+            "brandInput": "ЛКк-17",
+            "dataInput": "18.04.04",
+            "numberProductInput": "12"
+        },
+        {
+            "id": "3",
+            "nameInput": "Делона",
+            "addressInput": "пер. Юта, 82",
+            "telephoneInput": "54321",
+            "numberOfinvestmentInput": "1000",
+            "priceInput": "66",
+            "nameProductInput": "Корпус",
+            "brandInput": "К4",
+            "dataInput": "18.04.04",
+            "numberProductInput": "8"
+        },
+        {
+            "id": "4",
+            "nameInput": "Віал",
+            "addressInput": "ур. Діброва",
+            "telephoneInput": "98765",
+            "numberOfinvestmentInput": "800",
+            "priceInput": "6",
+            "nameProductInput": "Вилка",
+            "brandInput": "ДДВ-07-Е3",
+            "dataInput": "18.04.04",
+            "numberProductInput": "128"
+        },
+        {
+            "id": "5",
+            "nameInput": "Ресурс",
+            "addressInput": "пл. Пік, 14",
+            "telephoneInput": "23456",
+            "numberOfinvestmentInput": "0",
+            "priceInput": "34",
+            "nameProductInput": "Шайба",
+            "brandInput": "Ш16",
+            "dataInput": "18.04.04",
+            "numberProductInput": "1230"
+        }
+    ]
+}
