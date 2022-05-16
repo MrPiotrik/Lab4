@@ -9,7 +9,7 @@
             "priceInput": "5",
             "nameProductInput": "Генератор",
             "brandInput": "ГНТ-865-6а",
-            "dataInput": "21.04.04",
+            "dataInput": "18.04.04",
             "numberProductInput": "64"
         },
         {
@@ -59,6 +59,138 @@
             "brandInput": "Ш16",
             "dataInput": "18.04.04",
             "numberProductInput": "1230"
+        },
+        {
+            "id": "6",
+            "nameInput": "Магнолія",
+            "addressInput": "смт. Тура",
+            "telephoneInput": "17499",
+            "numberOfinvestmentInput": "7000",
+            "priceInput": "345",
+            "nameProductInput": "Кронштейн",
+            "brandInput": "КтРН-903",
+            "dataInput": "19.04.04",
+            "numberProductInput": "125"
+        },
+        {
+            "id": "7",
+            "nameInput": "Горизонт",
+            "addressInput": "вул. Суха, 5",
+            "telephoneInput": "12345",
+            "numberOfinvestmentInput": "0",
+            "priceInput": "125",
+            "nameProductInput": "Контактор",
+            "brandInput": "ЛКк-17",
+            "dataInput": "19.04.04",
+            "numberProductInput": "15"
+        },
+        {
+            "id": "8",
+            "nameInput": "Делона",
+            "addressInput": "пер. Юта, 82",
+            "telephoneInput": "54321",
+            "numberOfinvestmentInput": "1000",
+            "priceInput": "66",
+            "nameProductInput": "Корпус",
+            "brandInput": "К4",
+            "dataInput": "19.04.04",
+            "numberProductInput": "9"
+        },
+        {
+            "id": "9",
+            "nameInput": "Віал",
+            "addressInput": "ур. Діброва",
+            "telephoneInput": "98765",
+            "numberOfinvestmentInput": "800",
+            "priceInput": "765",
+            "nameProductInput": "Плита",
+            "brandInput": "П504",
+            "dataInput": "19.04.04",
+            "numberProductInput": "2"
+        },
+        {
+            "id": "10",
+            "nameInput": "Ресурс",
+            "addressInput": "пл. Пік, 14",
+            "telephoneInput": "23456",
+            "numberOfinvestmentInput": "0",
+            "priceInput": "34",
+            "nameProductInput": "Шайба",
+            "brandInput": "Ш16",
+            "dataInput": "19.04.04",
+            "numberProductInput": "2250"
+        },
+        {
+            "id": "11",
+            "nameInput": "Магнолія",
+            "addressInput": "смт. Тура",
+            "telephoneInput": "17499",
+            "numberOfinvestmentInput": "7000",
+            "priceInput": "5",
+            "nameProductInput": "Генератор",
+            "brandInput": "ГНТ-865-6а",
+            "dataInput": "20.04.04",
+            "numberProductInput": "68"
+        },
+        {
+            "id": "12",
+            "nameInput": "Горизонт",
+            "addressInput": "вул. Суха, 5",
+            "telephoneInput": "12345",
+            "numberOfinvestmentInput": "0",
+            "priceInput": "2525",
+            "nameProductInput": "Ось",
+            "brandInput": "ДОш-05-06",
+            "dataInput": "20.04.04",
+            "numberProductInput": "200"
+        },
+        {
+            "id": "13",
+            "nameInput": "Делона",
+            "addressInput": "пер. Юта, 82",
+            "telephoneInput": "54321",
+            "numberOfinvestmentInput": "1000",
+            "priceInput": "66",
+            "nameProductInput": "Корпус",
+            "brandInput": "К4",
+            "dataInput": "20.04.04",
+            "numberProductInput": "8"
+        },
+        {
+            "id": "14",
+            "nameInput": "Віал",
+            "addressInput": "ур. Діброва",
+            "telephoneInput": "98765",
+            "numberOfinvestmentInput": "800",
+            "priceInput": "765",
+            "nameProductInput": "Плита",
+            "brandInput": "П504г",
+            "dataInput": "20.04.04",
+            "numberProductInput": "2"
+        },
+        {
+            "id": "15",
+            "nameInput": "Ресурс",
+            "addressInput": "пл. Пік, 14",
+            "telephoneInput": "23456",
+            "numberOfinvestmentInput": "0",
+            "priceInput": "34",
+            "nameProductInput": "Шайба",
+            "brandInput": "Ш16",
+            "dataInput": "20.04.04",
+            "numberProductInput": "1500"
+        },
+        {
+            "id": "16",
+            "nameInput": "Магнолія",
+            "addressInput": "смт. Тура",
+            "telephoneInput": "17499",
+            "numberOfinvestmentInput": "7000",
+            "priceInput": "5",
+            "nameProductInput": "Генератор",
+            "brandInput": "ГНТ-865-6а",
+            "dataInput": "21.04.04",
+            "numberProductInput": "64"
         }
     ]
 }
